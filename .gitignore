@@ -1,9 +1,17 @@
 target/
-.class
+*.class
+*.jar
+*.war
 
-.settings/
+
 .classpath
 .project
+.settings/
+.metadata/
+bin/
 
-.DS_Store
+
 Thumbs.db
+.DS_Store
+*.tmp
+*.log
