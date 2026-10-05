@@ -1,7 +1,5 @@
 target/
 *.class
-*.jar
-*.war
 
 
 .classpath
@@ -13,5 +11,3 @@ bin/
 
 Thumbs.db
 .DS_Store
-*.tmp
-*.log
